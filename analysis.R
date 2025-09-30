@@ -1,3 +1,4 @@
+# Initial exploration of the Iris dataset
 
 data(iris)
 summary(iris)
